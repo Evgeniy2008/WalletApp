@@ -1,0 +1,85 @@
+[
+  {
+    "id": "t1",
+    "type": "Credit",
+    "amount": 14.06,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2026-03-31",
+    "pending": true,
+    "authorizedUser": "Diana"
+  },
+  {
+    "id": "t2",
+    "type": "Payment",
+    "amount": 174.0,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-30"
+  },
+  {
+    "id": "t3",
+    "type": "Credit",
+    "amount": 3.24,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2026-03-29",
+    "authorizedUser": "Diana"
+  },
+  {
+    "id": "t4",
+    "type": "Payment",
+    "amount": 99.71,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "t5",
+    "type": "Payment",
+    "amount": 73.58,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-25"
+  },
+  {
+    "id": "t6",
+    "type": "Credit",
+    "amount": 21.61,
+    "name": "IKEA",
+    "description": "Round Rock, TX",
+    "date": "2022-10-01"
+  },
+  {
+    "id": "t7",
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Cedar Park, TX",
+    "date": "2022-09-29"
+  },
+  {
+    "id": "t8",
+    "type": "Credit",
+    "amount": 12.44,
+    "name": "Uber",
+    "description": "Ride Share",
+    "date": "2026-03-22"
+  },
+  {
+    "id": "t9",
+    "type": "Credit",
+    "amount": 5.75,
+    "name": "Starbucks",
+    "description": "Coffee Shop",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "t10",
+    "type": "Payment",
+    "amount": 45.0,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-26"
+  }
+]
